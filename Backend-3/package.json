@@ -1,0 +1,15 @@
+{
+  "name": "backend-3",
+  "version": "1.0.0",
+  "description": "This is third Part of Backend Process where we learn about Middleware, MongoDB and env",
+  "license": "ISC",
+  "author": "Rajan Yadav",
+  "type": "module",
+  "main": "file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mongoose": "^9.0.0"
+  }
+}
